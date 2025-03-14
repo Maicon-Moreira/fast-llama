@@ -1,4 +1,6 @@
-# Tiny Llama
+# Fast Llama
+
+https://github.com/user-attachments/assets/419e5da6-addc-4769-94b5-5fa26839f4b4
 
 Blazingly fast minimal implementation of Llama 3.2 1B in PyTorch (~400 lines).
 
